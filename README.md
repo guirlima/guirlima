@@ -36,7 +36,8 @@ Tenho experiência com HTML, CSS, JavaScript, Java e SQL, automações com N8N e
     alt="CSS"
     title="CSS" 
     width="30px"  
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg
+ " 
 />
 
 <img
@@ -64,7 +65,7 @@ Tenho experiência com HTML, CSS, JavaScript, Java e SQL, automações com N8N e
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirlima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirlima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
