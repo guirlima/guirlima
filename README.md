@@ -58,7 +58,7 @@ Tenho experiência com HTML, CSS, JavaScript, Java e SQL, automações com N8N e
 <br/>
 <br/>
 
-### Tecnologias 
+---
 <p>
 <img 
       align="left" 
