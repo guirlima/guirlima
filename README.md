@@ -36,8 +36,7 @@ Tenho experiência com HTML, CSS, JavaScript, Java e SQL, automações com N8N e
     alt="CSS"
     title="CSS" 
     width="30px"  
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg
- " 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img
