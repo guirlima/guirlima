@@ -1,6 +1,6 @@
 # 🧑‍💻 [Guilherme Rodrigues](https://www.linkedin.com/in/guilhermerlima/)
 
-**`Desenvolvedor Junior`**
+**`Estudante de Desenvolvimento Junior`**
 
 
 Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de desafios e aprendizado contínuo. Atualmente, curso Gestão de Tecnologia da Informação (GTI) na Fatec, onde aprimoro minhas habilidades técnicas e estratégicas.
